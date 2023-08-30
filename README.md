@@ -1,4 +1,4 @@
-# Irteza's Python & Data Engineering Portfolio
+# Python & Data Engineering Portfolio
 
 Hello! I'm Irteza, a passionate data enthusiast with hands-on experience in Data Engineering, Analytics, and Machine Learning. Through my projects, I've explored various facets of the data ecosystem, from real-time data processing to cloud-based analytics. I'm driven by the thrill of transforming raw data into meaningful insights.
 
